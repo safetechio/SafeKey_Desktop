@@ -6,7 +6,7 @@ Desktop app for updating and configuring/Testing SafeKey Devices
 This  tool allows easy customization and testing of a SafeKey device.
 
 Supported features as of v1.1:
-* Firmware update.
+* Firmware update;
 * MakeCredential and GetAssertion;
 * Reset;
 * PIN management.
