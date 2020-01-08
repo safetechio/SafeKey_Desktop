@@ -11,6 +11,12 @@ Supported features as of v1.1:
 * Reset;
 * PIN management.
 
+To be added in future Releases:
+
+* Device to Device Backup
+* Device to Cloud Backup 
+* Unlock passphrase (PUK equivalent) Protected mode activation
+
 ## Compatibility
 Firmware update feature was tested on:
 - Windows 10 1903;
