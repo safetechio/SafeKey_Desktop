@@ -3,6 +3,8 @@ Desktop app for updating and configuring/Testing SafeKey Devices
 
 ![safekey-logo](https://user-images.githubusercontent.com/29922859/71773408-dbd6b700-2f5c-11ea-9237-1aae466a2d5d.png)
 
+Current Firmware version : v1.3.0
+
 This  tool allows easy customization and testing of a SafeKey device.
 
 Supported features as of v1.1:
