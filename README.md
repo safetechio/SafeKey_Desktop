@@ -30,4 +30,4 @@ Firmware update feature was tested on:
 - OS X High Sierra 10.13.6;
 - OS X Yosemite 10.10.5.
 
-Tested upgrade path: 1.0 -> 1.1.
+Tested upgrade path: 1.0 -> latest
