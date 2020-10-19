@@ -29,5 +29,6 @@ Firmware update feature was tested on:
 - Linux Fedora 30;
 - OS X High Sierra 10.13.6;
 - OS X Yosemite 10.10.5.
+- OS X Catalina
 
 Tested upgrade path: 1.0 -> latest
